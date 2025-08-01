@@ -1,18 +1,33 @@
 #include <Arduino.h>
 
-// put function declarations here:
-int myFunction(int, int);
+// Definindo o pino do LED
+#define LED_PIN 15
+
+// Task que vai controlar o piscar do LED
+void blinkTask(void *pvParameters) {
+  (void) pvParameters;
+  pinMode(LED_PIN, OUTPUT);
+
+  while (true) {
+    digitalWrite(LED_PIN, HIGH);
+    vTaskDelay(pdMS_TO_TICKS(500));  // Espera 500ms
+    digitalWrite(LED_PIN, LOW);
+    vTaskDelay(pdMS_TO_TICKS(500));  // Espera 500ms
+  }
+}
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  // Criação da task Blink com prioridade baixa
+  xTaskCreate(
+    blinkTask,       // Função da task
+    "BlinkTask",     // Nome da task
+    1024,            // Tamanho da stack
+    NULL,            // Parâmetro passado
+    1,               // Prioridade
+    NULL             // Handle da task (não usado aqui)
+  );
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
-
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+  // Nada a fazer aqui – tudo está sendo feito pela task
 }
