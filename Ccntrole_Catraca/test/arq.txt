@@ -1,0 +1,17 @@
+Agora outro relatório, não sei se e relatório o nome, mas gosto de gerar documentação,
+tipo um documentação, para ficar mais claro para você, vou descrever para fica melhor tenho um projeto de concerto da catraca então hoje, eu subi fiz a retirada de toda a eletrônica, para testar o que funciona o que necessita de conserto para a nova implantação, verificar o que pode ser reutilizado, mas com e um intuição federal e bom documentar tudo, então Hoje subir retirei os seguintes itens:
+1- um solenoide
+2- uma caixa plástica com a eletrônica, (contento dois adaptador serial ,um bateria, uma fonte 12v, uma placa aparentemente de controle, que quando cair a energia ela faz a troca para a bateria, essa bateria não funciona aparentemente, pois quando a catraca foi desliga da energia(220) ela não manteve a catraca ativa)
+3- um central de controle
+4- 2 sensor indutivo
+5- um leitor de código de barras
+*importante, inicialmente havia 2 leitores de código de barras, porem tempos atras ele caiu e fui informado que esse segundo esta no (Departamento de Serviços Gerais) DESEG.
+
+
+(1,2,3... , fazer um tabela)
+
+Img-001 contendo os itens 2, 3 e 4
+
+sobre o estrado da catraca, o cabos de ethernet esta muito oxidado, pretendo conversar com a TI e verificar o que poder ser feito e talvez soliciar uma clipagem de um novo conector, o cabo encontrasse em um bom estado (aparente)
+Foi solicitado juntamente com a DESEG a limpeza da catrata, haviam alguma casa de marimbondos, todas vazias .
+sobre numeração de patrimônio, apenas a estrutuca contina um numero de patrimônio (numero: 0257437223) os itens (da tabela 1,2,3,4) não possiam numeração e patrimônio, ao menos não tinha nada durante a retirada, porem as pecas que não estiverem mais fucinando ou não seram usando sera feito um novo relatório informando, quais pecas esta funcionando, e foram usadas novamente, e quais não foram usadas  
