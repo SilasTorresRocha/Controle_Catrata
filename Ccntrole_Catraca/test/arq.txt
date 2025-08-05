@@ -10,8 +10,27 @@ tipo um documentação, para ficar mais claro para você, vou descrever para fic
 
 (1,2,3... , fazer um tabela)
 
-Img-001 contendo os itens 2, 3 e 4
+adicinar uma imagem Img-001.png contendo os itens 2, 3 e 4
 
 sobre o estrado da catraca, o cabos de ethernet esta muito oxidado, pretendo conversar com a TI e verificar o que poder ser feito e talvez soliciar uma clipagem de um novo conector, o cabo encontrasse em um bom estado (aparente)
 Foi solicitado juntamente com a DESEG a limpeza da catrata, haviam alguma casa de marimbondos, todas vazias .
-sobre numeração de patrimônio, apenas a estrutuca contina um numero de patrimônio (numero: 0257437223) os itens (da tabela 1,2,3,4) não possiam numeração e patrimônio, ao menos não tinha nada durante a retirada, porem as pecas que não estiverem mais fucinando ou não seram usando sera feito um novo relatório informando, quais pecas esta funcionando, e foram usadas novamente, e quais não foram usadas  
+sobre numeração de patrimônio, apenas a estrutuca contina um numero de patrimônio (numero: 573923) os itens (da tabela 1,2.3...) não possiam numeração e patrimônio, ao menos não tinha nada durante a retirada, porem as pecas que não estiverem mais fucinando ou não seram usando sera feito um novo relatório informando, quais pecas esta funcionando, e foram usadas novamente, e quais não foram usadas  
+
+
+parte 2:
+retirei as travas de madeira de de metal que estao travando o giro da catraca com amarras na parte estrutal e solicitei a deseg a limpesa Da parte externa da catraca, aproveitando o periodo sem aulas, a fim de deixar mais organixado a catraca e deixa pronta para fazer alguns testes, inicialmenter montar toda a parte de controle e fazer alguns teste de seguranca e pegar uam amostragem com testes com alguns alunos.
+
+apos Retirar a parte eletrônica da catraca Fiz alguns testes no laboratório dos componentes Resultando no seguinte: fazer uma tabela para :
+*fonte, Apresentava o nível de sujeira considerável contendo até uma lagartixa e alguns ovos da mesma dentro da fonte de alimentação, Fiz a abertura da fonte e uma limpeza. (Aprovado para reaproveitamento no projeto)
+* solenoide, Apresenta um bom funcionamento com o consumo de corrente dentro do esperado, porem sera necessario (Aprovado para reaproveitamento no projeto, com necessidade de modificacoes)
+*caixa com eletronica , Devido As condições em que a caixa estava Havia muita oxidação Alguns capacitores caindo juntamente com pading da pcb, descidir fazer retirar de algum componete que ainda estavam em funcionamento para fazer o novo projeto. Sobre o estado Físico da caixa, Ela não contém as travas Está furada e contém alguns rachados na tampa, Borracha de vedação ressecada Portanto descartado para o reaproveitamento no projeto (descartado para o reaproveitamento no projeto)
+->conectaor ethernte apos limpesa de contato limpesa com alcool isopopilido e analise do circuitio de origem foi Constatado que o mesmo usa protocolo UART em 5v, porem O mesmo não responde a comandos AT e alguns outros comandos conhecidos, Aparentemente funciona, porem Descartado para Reaproveitamento no projeto (Descartado para Reaproveitamento no projeto).
+->conectores bornes e fios, O fios e conectores Que estão em bom estado foram retirados da placa para reaproveitamento no projeto Portanto Aprovado para reaproveitamento no projeto(Aprovado para reaproveitamento no projeto)
+->conversores para ttl, Os leitores de Código de Barras originais da catraca usavam Protocolo wiegand/ABA como Não irei usar nao fiz teste mas Aparentam estarem bom estado de conservação, foi retirado e guardade porem Descartado para reaproveitamento no projeto (Descartado para reaproveitamento no projeto)
+->leitos antigo, Devido a ser: Leitor de código de barras a laser com espelhos rotativos (omnidirecional). Utiliza um laser vermelho visível, geralmente em torno de 650 nm, não é infravermelho, mas a detecção é ótica e sensível à luz ambiente.
+Os espelhos giratórios são usados para projetar múltiplas linhas de varredura em diferentes ângulos, facilitando a leitura de códigos em qualquer posição. Mesmo não sendo infravermelho, leitores a laser como esse sofrem muito em ambientes com luz intensa. Portanto Descartado para reaproveitamento no projeto  (Descartado para reaproveitamento no projeto). Não foi feito o teste para verificar se estava em funcionamento.
+->sensor indutivo: Foi feito apenas uma limpeza porém ainda não foi feito nenhum tipo de teste para verificar o estado de funcionamento.
+-> bateria: nao foi testados mas devido ao tempo poxivelmente nao funciona porem estar guarda juntamente 
+
+
+Como foi retirado toda a parte de trava física da catraca foi feito a trava manual na parte superior da catraca Deixando a catraca mais limpa e menos poluída de material travando ela Com apenas a trava dela mesma da parte superior.
