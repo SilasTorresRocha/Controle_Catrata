@@ -8,8 +8,8 @@
 const char* ap_ssid = "catraca";
 const char* ap_pass = "20uss911";
 // Rede STA
-const char* sta_ssid = "iPhone de Silas ";
-const char* sta_pass = "20uss911";
+const char* sta_ssid = "UTFPR-IOT";
+const char* sta_pass = "c*98MzkFy";
 
 // Pinos e sensor
 #define DHTPIN 1  //  X do ESP01
